@@ -1,0 +1,8 @@
+# Ignorar atalhos do Windows e arquivos do sistema
+*.lnk
+desktop.ini
+
+# Ignorar repositórios Git embutidos
+git-github-tmw-fork/
+git-github.jbs/
+meu_projeto/
